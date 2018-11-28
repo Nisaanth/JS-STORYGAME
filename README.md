@@ -1,4 +1,4 @@
-# sparta-phinns-app-1
+# STORYGAME
 ### Description
 created a text-based game using javascript
 
