@@ -1,8 +1,10 @@
 //Text-Based Game
 
+//user needs to enter name
 var name = prompt('please enter your name');
-alert(name);
+alert("Hello " + name);
 
+//story description
 alert('Attention! You are deserted on an island due to a plane crash. You wake up randomly and find yourself lost. There are wild animals and tribe-cannibals on the island and unfortunately you are helpless as you have no tools to survive. In order to get back home you would have to go through the jungle. So go roam around this dangerous island to look for other poeple, weapons and food to survive and finally find the boat to go back home!');
 
 var yes = prompt('So do you want to enter the jungle?');

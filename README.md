@@ -26,5 +26,4 @@ created a text-based game using javascript
 
 
 ### Learning points
-1. learned how to make 
-2. 
+1. learned how to use the if else statement. 
