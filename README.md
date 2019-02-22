@@ -1,10 +1,9 @@
-# sparta-phinns-app-1
+# STORYGAME
 ### Description
-Team PHINSS consisting of Ian, Paul, Nisaanth, Nithes, Hibbah and Shah created a video streaming website.
+created a text-based game using javascript
 
 ### Languages used
 * html5
-* css
 * javascript
 
 
@@ -23,15 +22,8 @@ Team PHINSS consisting of Ian, Paul, Nisaanth, Nithes, Hibbah and Shah created a
 #### You can view the page [here]()
 
 ### Challenges (you can include images and code block here)
-1. communication issues 
-2. merge conflicts 
-3. edited bootstrap carousal
-4. Having two modals on the same page
-5. padding plus alignments.
+1. still need to practice javascript as I'm struggling to understand some concepts
 
 
 ### Learning points
-1. how to communicate effectively 
-2. learned how to use modal
-4. learned how to use techniques together(CSS GRID + Carousel)
-# JS-STORYGAME
+1. learned how to use the if else statement. 
